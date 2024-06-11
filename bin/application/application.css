@@ -1,0 +1,47 @@
+.button {
+    -fx-font-size: 12px;
+}
+
+.check-box {
+    -fx-font-size: 12px;
+}
+
+.hyperlink {
+    -fx-text-fill: #0066cc;
+}
+
+.toggle-button {
+    -fx-font-size: 12px;
+}
+
+.radio-button {
+    -fx-font-size: 12px;
+}
+
+.label {
+    -fx-font-size: 12px;
+}
+
+.text-field {
+    -fx-font-size: 12px;
+}
+
+.password-field {
+    -fx-font-size: 12px;
+}
+
+.text-area {
+    -fx-font-size: 12px;
+}
+
+.progress-indicator {
+    -fx-progress-color: #1e90ff;
+}
+
+.progress-bar {
+    -fx-accent: #1e90ff;
+}
+
+.slider {
+    -fx-base: #1e90ff;
+}
